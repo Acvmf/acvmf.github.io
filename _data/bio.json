@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Alexandra 'Lexa' Mink-Flacco",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "https://acvmf.github.io/images/propic1.png",
+    "email": "acvmf@hawaii.edu",
+    "phone": "808-652-9896",
+    "website": "https://acvmf.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2017.",
     "location": {
-      "address": "",
+      "address": "2569 Dole St., Room 530D",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -17,7 +17,7 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "acvmf",
         "url": "http://github.com/changeme"
       },
       {
@@ -29,11 +29,6 @@
         "network": "twitter",
         "username": "mollymal",
         "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
@@ -53,6 +48,8 @@
     {
       "name": "artificial intelligence",
       "keywords": [
+        "robots",
+        "ai"
       ]
     }
   ],
@@ -65,7 +62,6 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
         "Common Lisp"
       ]
     },
