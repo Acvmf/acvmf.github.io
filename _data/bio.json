@@ -34,15 +34,13 @@
       ]
     },
     {
-      "name": "networks",
+      "name": "networking",
       "keywords": [
       ]
     },
     {
       "name": "artificial intelligence",
       "keywords": [
-        "robots",
-        "ai"
       ]
     }
   ],
@@ -62,10 +60,12 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Windows",
+        "Windows (XP, 7)",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
+        "Eclipse",
+        "Filezilla/(s)FTP clients"
+        "Slack"
       ]
     }
   ],
@@ -104,6 +104,12 @@
       "date": "2011",
       "awarder": "National Merit Society",
       "summary": ""
+    },
+    {
+      "title": "Engineering Inspiration award",
+      "date": "2010",
+      "awarder": "FIRST Robotics Competition, Hawaii Regional",
+      "summary": "My team won a prestigious award in the first year I was lead driver. It came with an invitation to Nationals, where we performed admirably."
     }
   ],
   "references": [
