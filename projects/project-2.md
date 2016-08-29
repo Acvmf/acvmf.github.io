@@ -1,24 +1,19 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: 
 title: Vacay
-permalink: projects/vacay
-date: 2015
+permalink: projects/212p1
+date: 2016
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - C
+  - C++
+  - SCCS
+summary: A responsive personnel app I developed in ICS212
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+The main project in ICS 212 under Ravi Narayan in Spring 2016 was a personnel management application in C++. It was capable of adding, deleting, modifying, and reporting the users stored inside, and could read from and write to a disk file. Since the project was meant to work with any sort of black-box backend, it could be used with any size or structure of database.
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+I got most of the way to a functional application. Most students in the class ended up with code that would compile, though only a few applications would run. Mine did eventually run, though it didn't have all of the functionality I intended. When I finish it, I'll put it up on github and put the link here: <link placeholder>
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+This project taught us some of the limitations and capabilities of C and C++, as well as how to use version control software like SCCS. It also taught us how to review and test each others' code, and how to prepare our own code for testing by others.
