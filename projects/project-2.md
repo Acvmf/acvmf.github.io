@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/proj2cap.png
 title: Personnel DB Frontend
 permalink: projects/212p1
 date: 2016
