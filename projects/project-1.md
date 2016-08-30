@@ -3,8 +3,8 @@ layout: project
 type: project
 image: images/stars.jpg
 title: Stellapacifica
-permalink: http://stellapacifica.com/
-date: ongoing
+permalink: stellapacifica
+date: 2016
 labels:
   - Websites
   - Html/php testing
