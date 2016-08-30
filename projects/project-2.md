@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: 
-title: Personnel DB Frontend
+title: PersonnelDBFrontend
 permalink: projects/212p1
 date: 2016
 labels:
