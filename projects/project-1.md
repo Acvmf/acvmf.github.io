@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/stars.jpg
+image: images/starscrop.png
 title: Stellapacifica
 permalink: stellapacifica
 date: 2016
