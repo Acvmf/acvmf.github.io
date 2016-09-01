@@ -8,12 +8,12 @@ labels:
   - Javascript
 ---
 
-##Introduction
+## Introduction
 A recent WOD challenge involved the game "Fizzbuzz", in which a group of friends take turns counting numbers from 1 to 100. The trick is, when a number is divisible by 3, the person instead says "Fizz", and when it's divisible by 5, they say "Buzz". If it's both (divisible by 15), they say "Fizzbuzz".
 
 Here are two ways of going about it: the easy-to-read way, and the concise way. I'll write the pseudocode first so that in case you're not familiar with JS syntax, this still makes sense.
 
-###Pseudocode:
+### Pseudocode:
 ```
 loop(1 to 100){
   if the number is divisible by 3 or 5 (or both), then
@@ -25,7 +25,7 @@ loop(1 to 100){
 
 ```
 
-###Readable:
+### Readable:
 ```
 
 function Fizzbuzz(){
@@ -47,7 +47,7 @@ This function has two pieces of information, output and count. Count is the numb
 
 If none of the above conditions are true, output is set to simply the number in count. The function then sends output to the console, resets output to nothing, and increments count.
 
-###Concise:
+### Concise:
 ```
 for (var i = 1; i <= 100; i++) {
   var f = i % 3 == 0, b = i % 5 == 0;
