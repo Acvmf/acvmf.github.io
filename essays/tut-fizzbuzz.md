@@ -53,6 +53,7 @@ for (var i = 1; i <= 100; i++) {
   var f = i % 3 == 0, b = i % 5 == 0;
   console.log(f ? b ? "FizzBuzz" : "Fizz" : b ? "Buzz" : i);
 }
+```
 
 This version will make very little sense to someone unfamiliar with powerful expressions and Javascript. However, in essence, it does the exact same thing.
 
