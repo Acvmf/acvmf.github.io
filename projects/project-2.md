@@ -1,19 +1,19 @@
 ---
 layout: project
 type: project
-image: images/proj2cap.png
-title: Personnel DB Frontend
-permalink: projects/212p1
+image: images/aima-logo.png
+title: Recycling Robot
+permalink: projects/lispbot
 date: 2016
 labels:
-  - C
-  - C++
-  - SCCS
-summary: A responsive personnel app I developed in ICS212
+  - Lisp
+  - Aima
+  - Softbot
+summary: A recycling softbot written in lisp.
 ---
 
-The main project in ICS 212 under Ravi Narayan in Spring 2016 was a personnel management application in C++. It was capable of adding, deleting, modifying, and reporting the users stored inside, and could read from and write to a disk file. Since the project was meant to work with any sort of black-box backend, it could be used with any size or structure of database.
+This project builds on the Artificial Intelligence: A Modern Approach (AIMA) codebase available on github.com/aimacode.
 
-I got most of the way to a functional application. Most students in the class ended up with code that would compile, though only a few applications would run. Mine did eventually run, though it didn't have all of the functionality I intended. When I finish it, I'll put it up on github and put the link here: <link placeholder>
+I have modified the "Agents" portion of the code to improve the environment and AI of the vacuum bot. It now uses cans and bottles rather than dirt, and deposits them in a recycling bin.
 
-This project taught us some of the limitations and capabilities of C and C++, as well as how to use version control software like SCCS. It also taught us how to review and test each others' code, and how to prepare our own code for testing by others.
+In future iterations of the project, it will map out the room and use a better algorithm for avoiding walls and finding objects.
