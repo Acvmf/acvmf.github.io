@@ -3,12 +3,12 @@ layout: project
 type: project
 image: images/manoathegathering.png
 title: Recycling Robot
-permalink: projects/lispbot
+permalink: projects/mtg
 date: 2016
 labels:
-  - Lisp
-  - Aima
-  - Softbot
+  - Websites
+  - Meteor
+  - Games
 summary: A recycling softbot written in lisp.
 ---
 
