@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/manoathegathering.png
-title: Manoa: The Gathering
+title: Manoa, The Gathering
 permalink: projects/mtg
 date: 2016
 labels:
