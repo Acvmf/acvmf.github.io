@@ -9,7 +9,7 @@ labels:
   - Java
   - Command Line
   - Shell
-summary: A simple shell written in Java
+summary: A simple shell written in Java.
 ---
 
 Over the course of several iterations, I developed a simple command-line shell in Java.
