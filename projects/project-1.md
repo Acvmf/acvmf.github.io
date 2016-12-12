@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: images/manoathegathering.png
-title: Manoa the Gathering
-permalink: projects/mtg
+image: images/aima_logo.png
+title: Recycling Robot
+permalink: projects/lispbot
 date: 2016
 labels:
-  - Websites
-  - Meteor
-  - Games
-summary: A group project. We are making a Magic the Gathering parody game based in UH Manoa to help new students learn about the campus while playing a popular card game.
+  - Lisp
+  - Aima
+  - Softbot
+summary: A recycling softbot written in lisp.
 ---
 
 Homepage: https://manoa-the-gathering.github.io/
