@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/aima_logo.png
+image: images/manoathegathering.png
 title: Recycling Robot
 permalink: projects/lispbot
 date: 2016
