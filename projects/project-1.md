@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/manoathegathering.png
-title: Recycling Robot
+title: Magic the Gathering
 permalink: projects/mtg
 date: 2016
 labels:
