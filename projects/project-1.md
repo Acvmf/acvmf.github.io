@@ -8,6 +8,7 @@ date: 2016
 labels:
   - Websites
   - Meteor
+  - Games
 summary: A group project. We are making a Magic: the Gathering parody game based in UH Manoa to help new students learn about the campus while playing a popular card game.
 ---
 
