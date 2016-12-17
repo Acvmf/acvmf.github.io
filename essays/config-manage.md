@@ -4,6 +4,8 @@ type: essay
 title: Configuration Management
 date: 2016-09-13
 labels:
+  - Reflection
+  - Config
 ---
 
 ## Welcome to the control center
