@@ -24,4 +24,3 @@ cards, to integrate the app with UH Manoa.
 Learning: My takeaway from this project was a sense of how to work as a group and make sure that all members of a team
 are on the same page.
 
-<img src="https://github.com/manoa-the-gathering/manoa-the-gathering.github.io/blob/master/screenshots/battle.png">
