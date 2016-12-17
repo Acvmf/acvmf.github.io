@@ -52,7 +52,9 @@
         "C",
         "C++",
         "Java",
-        "Common Lisp"
+        "Common Lisp",
+        "Prolog",
+        "HTML5/CSS"
       ]
     },
     {
@@ -65,7 +67,8 @@
         "Git/GitHub",
         "Eclipse",
         "Filezilla/(s)FTP clients",
-        "Slack"
+        "Slack",
+        "Unix CLI"
       ]
     }
   ],
@@ -79,9 +82,11 @@
       "gpa": "3.0+",
       "courses": [
         "ICS 314",
+        "ICS 414",
         "ICS 332",
         "ICS 361",
-        "ICS 475"
+        "ICS 461",
+        "ICS 469"
       ]
     }
   ],
