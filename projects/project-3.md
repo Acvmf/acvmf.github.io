@@ -18,4 +18,6 @@ It supports cd, piped commands, and other basic functionality using ProcessBuild
 
 It does not currently support sudo.
 
-You may find the code at https://drive.google.com/open?id=0B6T4luuBpxZCd1NTdjUtcmRrQWs - it is currently only open to University of Hawaii logins, or on request.
+For the full requirements of the project, please refer to the class website: [Part 1](https://schastel.github.io/fa2016_ics332/morea/040_Processes/experience-jsh1.html) [Part 2](https://schastel.github.io/fa2016_ics332/morea/050_Threads/experience-jsh2.html) [Part 3](https://schastel.github.io/fa2016_ics332/morea/070_Synchronization/experience-jsh3.html)
+
+I cannot provide the full code for download, in order to preserve academic standards, but hope to have a demo video up as soon as I can film one.
