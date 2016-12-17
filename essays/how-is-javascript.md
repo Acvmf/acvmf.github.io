@@ -1,18 +1,22 @@
 ---
 layout: essay
 type: essay
-title: Reflection on Javascript, WODs
+title: Working Out with Javascript
 date: 2016-09-01
 labels:
   - Reflection
   - Javascript
 ---
 
-## Workout of the Day
-I enjoy programming small challenges, but doing so under pressure doesn't work at all for me. Seeing others finish in a minute or two while I'm still debugging leads to feelings of panic, doubt, and plummetting self-worth. Oddly, this doesn't happen at all when I'm only seeing how fast I can go. I've been able to complete the same kind of challenges well under the limits at home. I theorize that the competition factor, as well as an externally set limit, use up more of my brain's processing power than they should and leave me without enough to actually compute my task.
+## Workouts of the Day
+One popular thing with programmers these days is a thing called a "WOD", or Workout of the Day.
+These are intended to be a warmup, or a short challenge to get you ready for a longer period of productivity.
+Having tried them for a while, I've found that while I enjoy programming small challenges, doing so under the pressure of competition is less useful.
+Oddly, this isn't the case when I'm only seeing how fast I can go - removing an external benchmark removes the feeling of inferiority.
+This has inspired me to ease myself into a more competitive environment and strengthen my confidence so that I can work up to my ability in any condition.
 
 ## Javascript
-The first two weeks of ICS 314 at UH Manoa have given me a solid refresher on Javascript. I taught myself the basic syntax a year or so ago, but haven't used it since then. The first language I learned in full was Java (we were on version 7 at the time, but now 8 is out), so most of the syntax and constructions are similar. Some capabilities are different, missing, or added, but it's not too difficult to wrap my mind around.
-
-## Comparison
-I enjoy the spontaneity of Javascript. With the full Java, you need a whole Java dev environment to even get started. Well, technically you can write it with notepad, like any language. But in order to do anything useful like debugging or running in a GUI, you need an environment. With Javascript, you only need a browser. Also, the syntax is simple and powerful. You can write a piece of code in any of several ways, all of which work. Some may be more efficient in space or time than others, but you have the flexibility to customize for various applications. For these reasons, I enjoy programming in JS and look forward to the rest of my time with it.
+I've found that JS is an excellent conduit for WODs. The modularity of the language allows a competent writer to put a complex thought into a sentence only a line long.
+This means that the Javascript program which results will be compact and readable. Of course, the more intricate designs require extensive commenting, but with a little practice anyone can get a gist of what a line does.
+In the context of a WOD, this means that there are endless ideas for little programs to be written, all of which do completely different things, but which can be stored on little more than the back of an envelope.
+Javascript has shown itself to be a useful tool which fits into any developer's arsenal.
